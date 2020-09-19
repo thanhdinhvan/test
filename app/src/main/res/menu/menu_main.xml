@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <group android:checkableBehavior="single">
+       <item android:id="@+id/menu_song"
+           android:title="song"
+           android:icon="@drawable/dongho"/>
+       <item android:id="@+id/menu_caidat"
+           android:title="caidat"
+           android:icon="@drawable/cham"/>
+       <item android:id="@+id/menu_setting"
+           android:title="song"
+           android:icon="@drawable/nguoi"/>
+   </group>
+</menu>
